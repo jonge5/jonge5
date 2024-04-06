@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 <br>
 
 <div>
+  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/>
 </div>
 
